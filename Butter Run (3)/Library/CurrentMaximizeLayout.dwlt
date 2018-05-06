@@ -20,10 +20,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 681, y: 471}
-  m_MaxSize: {x: 14002, y: 14021}
+  m_MinSize: {x: 679, y: 471}
+  m_MaxSize: {x: 14000, y: 14021}
   vertical: 0
-  controlID: 2542
+  controlID: 2573
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 471}
   m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 2504
+  controlID: 2574
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 2482
+  controlID: 2552
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -203,9 +203,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 76e7feff
-    m_LastClickedID: -71818
-    m_ExpandedIDs: 74fbffff00000000
+    m_SelectedIDs: eabafeff
+    m_LastClickedID: -83222
+    m_ExpandedIDs: 98fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -285,14 +285,14 @@ MonoBehaviour:
     height: 552
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 895.9203779797073
+  lastFramingTime: 699.5675307200243
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -5.599299, y: 0.2956726, z: -0.93739545}
+    m_Target: {x: -0.7810953, y: -1.2144297, z: 0.20146161}
     speed: 2
-    m_Value: {x: -5.599299, y: 0.2956726, z: -0.93739545}
+    m_Value: {x: -0.7810953, y: -1.2144297, z: 0.20146161}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -320,9 +320,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 11.417639
+    m_Target: 16.076406
     speed: 2
-    m_Value: 11.417639
+    m_Value: 16.076406
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -504,13 +504,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Background
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Projects\Unity\Butter Run\Butter Run game\Butter Run (3)
+  m_LastProjectPath: D:\Projects\Unity\Butter Run\Butter Run game\Butter Run (3)\Butter
+    Run (3)\Butter Run (3)
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 602c0000
-    m_LastClickedID: 11360
-    m_ExpandedIDs: 000000008a27000000ca9a3bffffff7f
+    m_SelectedIDs: 2e280000
+    m_LastClickedID: 10286
+    m_ExpandedIDs: 000000008227000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -538,7 +539,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008a27000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000008227000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -563,24 +564,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 76e7feff
-    m_LastClickedInstanceID: -71818
+    m_SelectedInstanceIDs: eabafeff
+    m_LastClickedInstanceID: -83222
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300001a2800008427000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: "p\u0159edni_banner"
+      m_OriginalName: "p\u0159edni_banner"
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 11472
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 12}
     m_CreateAssetUtility:

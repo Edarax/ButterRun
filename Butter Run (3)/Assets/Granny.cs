@@ -16,8 +16,8 @@ public class Granny : MonoBehaviour {
     /* initial posotion of object */
     private Vector2 start;
 
-    private static int movmentSpeed = 5;
-    private static int jumpHeight = 8;
+    private static int MOVMENTSPEED = 5;
+    private static int JUMPHEIGHT = 6;
 
     // Use this for initialization
     void Start() {
@@ -38,7 +38,7 @@ public class Granny : MonoBehaviour {
     {
         if (!isStunned)
         {
-            float horizontal = movmentSpeed * Input.GetAxis("Horizontal");
+            float horizontal = MOVMENTSPEED * Input.GetAxis("Horizontal");
             body.velocity = new Vector2(horizontal, body.velocity.y);
 
             if (!isCrawling)
@@ -54,7 +54,7 @@ public class Granny : MonoBehaviour {
 
                     else if (Input.GetButtonDown("Jump"))
                     {
-                        body.AddForce(transform.up * jumpHeight, ForceMode2D.Impulse);
+                        body.AddForce(transform.up * JUMPHEIGHT, ForceMode2D.Impulse);
                         isGrounded = false;
                     }
 
