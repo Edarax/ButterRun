@@ -3,7 +3,48 @@ guid: c01ce6cf5d2a651469635faa84b8ef26
 timeCreated: 1525609121
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Granny_jump_22
+    21300002: Granny_jump_20
+    21300004: Granny_jump_2
+    21300006: Granny_jump_3
+    21300008: Granny_jump_4
+    21300010: Granny_jump_5
+    21300012: Granny_jump_6
+    21300014: Granny_jump_7
+    21300016: Granny_jump_8
+    21300018: Granny_jump_9
+    21300020: Granny_jump_10
+    21300022: Granny_jump_11
+    21300024: Granny_jump_12
+    21300026: Granny_jump_13
+    21300028: Granny_jump_14
+    21300030: Granny_jump_15
+    21300032: Granny_jump_16
+    21300034: Granny_jump_17
+    21300036: Granny_jump_18
+    21300038: Granny_jump_19
+    21300040: Granny_jump_21
+    21300042: Granny_jump_23
+    21300044: Granny_jump_24
+    21300046: Granny_jump_25
+    21300048: Granny_jump_26
+    21300050: Granny_jump_27
+    21300052: Granny_jump_28
+    21300054: Granny_jump_29
+    21300056: Granny_jump_30
+    21300058: Granny_jump_31
+    21300060: Granny_jump_32
+    21300062: Granny_jump_33
+    21300064: Granny_jump_34
+    21300066: Granny_jump_35
+    21300068: Granny_jump_36
+    21300070: Granny_jump_37
+    21300072: Granny_jump_38
+    21300074: Granny_jump_39
+    21300076: Granny_jump_40
+    21300078: Granny_jump_41
+    21300080: Granny_jump_42
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,11 +81,11 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
+  alignment: 1
+  spritePivot: {x: 0, y: 1}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaUsage: 1
@@ -66,9 +107,603 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Granny_jump_22
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1031
+        width: 430
+        height: 314
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_20
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1387
+        width: 431
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_2
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2070
+        width: 430
+        height: 319
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_3
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2067
+        width: 430
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_4
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 2064
+        width: 431
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_5
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 2058
+        width: 431
+        height: 342
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_6
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 2058
+        width: 431
+        height: 342
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1724
+        width: 430
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1741
+        width: 430
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1759
+        width: 429
+        height: 255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_10
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1768
+        width: 429
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_11
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1772
+        width: 429
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_12
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1768
+        width: 430
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_13
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 1770
+        width: 429
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1419
+        width: 428
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1403
+        width: 429
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_16
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1397
+        width: 430
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_17
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1388
+        width: 429
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_18
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1391
+        width: 429
+        height: 308
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_19
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1394
+        width: 426
+        height: 303
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1057
+        width: 428
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_23
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1063
+        width: 430
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_24
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1064
+        width: 430
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_25
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1068
+        width: 429
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_26
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1066
+        width: 430
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_27
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 1076
+        width: 429
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 747
+        width: 428
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 732
+        width: 429
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_30
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 697
+        width: 429
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_31
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 698
+        width: 430
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_32
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 700
+        width: 430
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_33
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 703
+        width: 431
+        height: 316
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_34
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 705
+        width: 431
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 430
+        height: 291
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_36
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 366
+        width: 431
+        height: 307
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_37
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 360
+        width: 430
+        height: 319
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_38
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 363
+        width: 430
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_39
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 361
+        width: 429
+        height: 316
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_40
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 358
+        width: 431
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_41
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 356
+        width: 431
+        height: 326
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 430
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

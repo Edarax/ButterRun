@@ -13,10 +13,10 @@ public class Granny : MonoBehaviour {
     private bool isGrounded;
     /* body of the object */
     private Rigidbody2D body;
-    /* initial posotion of object */
-    private Vector2 start;
+    /*animator acces*/
+    private Animator anim;
 
-    private static int MOVMENTSPEED = 5;
+    private static int MOVMENTSPEED = 20;
     private static int JUMPHEIGHT = 6;
 
     // Use this for initialization
@@ -26,16 +26,11 @@ public class Granny : MonoBehaviour {
         isAttacking = false;
         isStunned = false;
         isGrounded = true;
-        start = new Vector2(transform.localPosition.x, transform.localPosition.y);
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update() {
-
-    }
-
-    private void FixedUpdate()
-    {
         if (!isStunned)
         {
             float horizontal = MOVMENTSPEED * Input.GetAxis("Horizontal");
@@ -48,17 +43,17 @@ public class Granny : MonoBehaviour {
                     if (Input.GetButton("Vertical") && !isAttacking)
                     {
                         isCrawling = true;
-                        transform.localScale = new Vector2(transform.localScale.x, transform.localScale.y / 2);
-                        transform.localPosition = new Vector2(transform.localPosition.x, transform.localPosition.y + transform.localPosition.y / 2);
+                        anim.SetBool("isCrawling", true);
                     }
 
                     else if (Input.GetButtonDown("Jump"))
                     {
                         body.AddForce(transform.up * JUMPHEIGHT, ForceMode2D.Impulse);
                         isGrounded = false;
+                        anim.SetBool("isGrounded", false);
                     }
 
-                    
+
                 }
 
                 if (Input.GetButtonDown("Fire1") && !isAttacking)
@@ -70,9 +65,14 @@ public class Granny : MonoBehaviour {
             else if (Input.GetButtonUp("Vertical"))
             {
                 isCrawling = false;
-                transform.localScale = new Vector2(transform.localScale.x, transform.localScale.y * 2);
-            }    
+                anim.SetBool("isCrawling", false);
+            }
         }
+    }
+
+    private void FixedUpdate()
+    {
+       
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -80,21 +80,30 @@ public class Granny : MonoBehaviour {
         if (collision.collider.gameObject.name.Equals("Floor"))
         {
             isGrounded = true;
+            anim.SetBool("isGrounded", true);
         }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        
         if (isAttacking && collision.gameObject.GetComponent<Obstacle>().isDestructable())
         {
-            Destroy(collision.gameObject);
-            //collision.gameObject.transform.localPosition = new Vector2(-50, 0);
+            collision.gameObject.GetComponent<Obstacle>().obstacleSucces();
+        }
+        else if (isCrawling && collision.gameObject.GetComponent<Obstacle>().isCrawlable())
+        {
+
         }
         else
         {
-            float offset = 1.6f;
+            float offset = collision.gameObject.GetComponent<Obstacle>().getOffset();
             float stunTime = collision.gameObject.GetComponent<Obstacle>().getStunTime();
+            if (collision.gameObject.GetComponent<Obstacle>().isJumpable())
+            {
+                anim.SetTrigger("Fall");
+            }
+
+            collision.gameObject.GetComponent<Obstacle>().obstacleFail();
             StartCoroutine(stun(stunTime, collision.gameObject.transform.localPosition.x - offset));
 
         }
@@ -103,16 +112,24 @@ public class Granny : MonoBehaviour {
     /* durning attack the box collider grows bigger and objcet is move to right at the end it return to normal */
     private IEnumerator attack()
     {
-        float delta = 0.3f * transform.localScale.x;
-        isAttacking = true;
-      //  transform.localPosition = new Vector2(transform.localPosition.x + delta/2, transform.localPosition.y);
-      //  transform.localScale = new Vector2(transform.localScale.x + delta, transform.localScale.y);
         
+        isAttacking = true;
+        anim.SetBool("isAttacking", true);
+
+        /*
+        float delta = 0.3f * transform.localScale.x;
+        transform.localPosition = new Vector2(transform.localPosition.x + delta/2, transform.localPosition.y);
+        transform.localScale = new Vector2(transform.localScale.x + delta, transform.localScale.y);
+        */
         yield return new WaitForSeconds(0.5f);
 
-      //  transform.localPosition = new Vector2(transform.localPosition.x - delta / 2, transform.localPosition.y);
-      //  transform.localScale = new Vector2(transform.localScale.x - delta, transform.localScale.y);
+        /*
+        transform.localPosition = new Vector2(transform.localPosition.x - delta / 2, transform.localPosition.y);
+        transform.localScale = new Vector2(transform.localScale.x - delta, transform.localScale.y);
+        */
+
         isAttacking = false;
+        anim.SetBool("isAttacking", false);
     }
 
     /* if object steps in obstacle it is stunned for a stunTime in sec and move slightly before the obstacle to stunLocation*/
@@ -120,7 +137,7 @@ public class Granny : MonoBehaviour {
     {
         isStunned = true;
         body.velocity = new Vector2(0, 0);
-        transform.localPosition = new Vector2(stunLocation, start.y);
+        transform.localPosition = new Vector2(stunLocation, transform.localPosition.y);
 
         yield return new WaitForSeconds(stunTime);
 

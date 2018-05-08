@@ -3,7 +3,60 @@ guid: 7674d7757e0bb4547810af9914cc4e64
 timeCreated: 1525609837
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: dedakytka_0
+    21300002: dedakytka_1
+    21300004: dedakytka_2
+    21300006: dedakytka_3
+    21300008: dedakytka_4
+    21300010: dedakytka_5
+    21300012: dedakytka_6
+    21300014: dedakytka_7
+    21300016: dedakytka_8
+    21300018: dedakytka_9
+    21300020: dedakytka_10
+    21300022: dedakytka_11
+    21300024: dedakytka_12
+    21300026: dedakytka_13
+    21300028: dedakytka_14
+    21300030: dedakytka_15
+    21300032: dedakytka_16
+    21300034: dedakytka_17
+    21300036: dedakytka_18
+    21300038: dedakytka_19
+    21300040: dedakytka_20
+    21300042: dedakytka_21
+    21300044: dedakytka_22
+    21300046: dedakytka_23
+    21300048: dedakytka_24
+    21300050: dedakytka_25
+    21300052: dedakytka_26
+    21300054: dedakytka_27
+    21300056: dedakytka_28
+    21300058: dedakytka_29
+    21300060: dedakytka_30
+    21300062: dedakytka_31
+    21300064: dedakytka_32
+    21300066: dedakytka_33
+    21300068: dedakytka_34
+    21300070: dedakytka_35
+    21300072: dedakytka_36
+    21300074: dedakytka_37
+    21300076: dedakytka_38
+    21300078: dedakytka_39
+    21300080: dedakytka_40
+    21300082: dedakytka_41
+    21300084: dedakytka_42
+    21300086: dedakytka_43
+    21300088: dedakytka_44
+    21300090: dedakytka_45
+    21300092: dedakytka_46
+    21300094: dedakytka_47
+    21300096: dedakytka_48
+    21300098: dedakytka_49
+    21300100: dedakytka_50
+    21300102: dedakytka_51
+    21300104: dedakytka_52
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +93,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -66,9 +119,771 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: dedakytka_0
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 10257
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_1
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 10257
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_2
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 10257
+        width: 694
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_3
+      rect:
+        serializedVersion: 2
+        x: 5606
+        y: 10257
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_4
+      rect:
+        serializedVersion: 2
+        x: 7305
+        y: 10257
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_5
+      rect:
+        serializedVersion: 2
+        x: 9005
+        y: 10257
+        width: 696
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_6
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 8980
+        width: 694
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_7
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 8980
+        width: 692
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_8
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 8980
+        width: 692
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_9
+      rect:
+        serializedVersion: 2
+        x: 5606
+        y: 8980
+        width: 692
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_10
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 8980
+        width: 697
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_11
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 8980
+        width: 701
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_12
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 7704
+        width: 697
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_13
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 7704
+        width: 697
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_14
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 7704
+        width: 696
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_15
+      rect:
+        serializedVersion: 2
+        x: 5606
+        y: 7704
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_16
+      rect:
+        serializedVersion: 2
+        x: 7305
+        y: 7704
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_17
+      rect:
+        serializedVersion: 2
+        x: 9005
+        y: 7704
+        width: 696
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_18
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 6432
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_19
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 6432
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_20
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 6432
+        width: 694
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_21
+      rect:
+        serializedVersion: 2
+        x: 5606
+        y: 6432
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_22
+      rect:
+        serializedVersion: 2
+        x: 7305
+        y: 6432
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_23
+      rect:
+        serializedVersion: 2
+        x: 9005
+        y: 6432
+        width: 691
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 5155
+        width: 692
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_25
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 5155
+        width: 692
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_26
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 5155
+        width: 694
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_27
+      rect:
+        serializedVersion: 2
+        x: 5606
+        y: 5155
+        width: 692
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_28
+      rect:
+        serializedVersion: 2
+        x: 7305
+        y: 5155
+        width: 692
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_29
+      rect:
+        serializedVersion: 2
+        x: 9006
+        y: 5155
+        width: 690
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_30
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3879
+        width: 687
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_31
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 3879
+        width: 687
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_32
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 3879
+        width: 689
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_33
+      rect:
+        serializedVersion: 2
+        x: 5608
+        y: 3879
+        width: 690
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_34
+      rect:
+        serializedVersion: 2
+        x: 7311
+        y: 3879
+        width: 686
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_35
+      rect:
+        serializedVersion: 2
+        x: 9005
+        y: 3879
+        width: 686
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_36
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2607
+        width: 686
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_37
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2607
+        width: 686
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_38
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 2607
+        width: 687
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_39
+      rect:
+        serializedVersion: 2
+        x: 5606
+        y: 2607
+        width: 687
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_40
+      rect:
+        serializedVersion: 2
+        x: 7306
+        y: 2607
+        width: 686
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_41
+      rect:
+        serializedVersion: 2
+        x: 9010
+        y: 2607
+        width: 686
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_42
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1330
+        width: 687
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_43
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1330
+        width: 687
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_44
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 1330
+        width: 689
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_45
+      rect:
+        serializedVersion: 2
+        x: 5606
+        y: 1330
+        width: 692
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_46
+      rect:
+        serializedVersion: 2
+        x: 7306
+        y: 1330
+        width: 691
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_47
+      rect:
+        serializedVersion: 2
+        x: 9005
+        y: 1330
+        width: 691
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_48
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 59
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_49
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 59
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_50
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 59
+        width: 694
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_51
+      rect:
+        serializedVersion: 2
+        x: 5606
+        y: 59
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dedakytka_52
+      rect:
+        serializedVersion: 2
+        x: 7305
+        y: 59
+        width: 692
+        height: 1254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

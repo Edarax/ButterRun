@@ -3,7 +3,66 @@ guid: 53559351e223030418ccadc30112d71c
 timeCreated: 1525609799
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: dilda_0
+    21300002: dilda_1
+    21300004: dilda_2
+    21300006: dilda_3
+    21300008: dilda_4
+    21300010: dilda_5
+    21300012: dilda_6
+    21300014: dilda_7
+    21300016: dilda_8
+    21300018: dilda_9
+    21300020: dilda_10
+    21300022: dilda_11
+    21300024: dilda_12
+    21300026: dilda_13
+    21300028: dilda_14
+    21300030: dilda_15
+    21300032: dilda_16
+    21300034: dilda_17
+    21300036: dilda_18
+    21300038: dilda_19
+    21300040: dilda_20
+    21300042: dilda_21
+    21300044: dilda_22
+    21300046: dilda_23
+    21300048: dilda_24
+    21300050: dilda_25
+    21300052: dilda_26
+    21300054: dilda_27
+    21300056: dilda_28
+    21300058: dilda_29
+    21300060: dilda_30
+    21300062: dilda_31
+    21300064: dilda_32
+    21300066: dilda_33
+    21300068: dilda_34
+    21300070: dilda_35
+    21300072: dilda_36
+    21300074: dilda_37
+    21300076: dilda_38
+    21300078: dilda_39
+    21300080: dilda_40
+    21300082: dilda_41
+    21300084: dilda_42
+    21300086: dilda_43
+    21300088: dilda_44
+    21300090: dilda_45
+    21300092: dilda_46
+    21300094: dilda_47
+    21300096: dilda_48
+    21300098: dilda_49
+    21300100: dilda_50
+    21300102: dilda_51
+    21300104: dilda_52
+    21300106: dilda_53
+    21300108: dilda_54
+    21300110: dilda_55
+    21300112: dilda_56
+    21300114: dilda_57
+    21300116: dilda_58
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +99,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -66,9 +125,855 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: dilda_0
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 11525
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_1
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 11525
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_2
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 11525
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_3
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 11525
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_4
+      rect:
+        serializedVersion: 2
+        x: 7147
+        y: 11525
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_5
+      rect:
+        serializedVersion: 2
+        x: 8847
+        y: 11525
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 10250
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_7
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 10250
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_8
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 10250
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_9
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 10250
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_10
+      rect:
+        serializedVersion: 2
+        x: 7147
+        y: 10250
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_11
+      rect:
+        serializedVersion: 2
+        x: 8847
+        y: 10250
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 8975
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_13
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 8975
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_14
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 8975
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_15
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 8975
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_16
+      rect:
+        serializedVersion: 2
+        x: 7147
+        y: 8975
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_17
+      rect:
+        serializedVersion: 2
+        x: 8847
+        y: 8975
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_18
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 7700
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_19
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 7700
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_20
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 7700
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_21
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 7700
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_22
+      rect:
+        serializedVersion: 2
+        x: 7147
+        y: 7700
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_23
+      rect:
+        serializedVersion: 2
+        x: 8847
+        y: 7700
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_24
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 6425
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_25
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 6425
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_26
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 6425
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_27
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 6425
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_28
+      rect:
+        serializedVersion: 2
+        x: 7147
+        y: 6425
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_29
+      rect:
+        serializedVersion: 2
+        x: 8847
+        y: 6425
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_30
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 5150
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_31
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 5150
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_32
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 5150
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_33
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 5150
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_34
+      rect:
+        serializedVersion: 2
+        x: 7147
+        y: 5150
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_35
+      rect:
+        serializedVersion: 2
+        x: 8847
+        y: 5150
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_36
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3875
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_37
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 3875
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_38
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 3875
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_39
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 3875
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_40
+      rect:
+        serializedVersion: 2
+        x: 7147
+        y: 3875
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_41
+      rect:
+        serializedVersion: 2
+        x: 8847
+        y: 3875
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_42
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2600
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_43
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2600
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_44
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 2600
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_45
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 2600
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_46
+      rect:
+        serializedVersion: 2
+        x: 7147
+        y: 2600
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_47
+      rect:
+        serializedVersion: 2
+        x: 8847
+        y: 2600
+        width: 1006
+        height: 1266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_48
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1334
+        width: 1006
+        height: 1257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_49
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1334
+        width: 1006
+        height: 1257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_50
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 1334
+        width: 1006
+        height: 1257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_51
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 1334
+        width: 1006
+        height: 1257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_52
+      rect:
+        serializedVersion: 2
+        x: 7147
+        y: 1334
+        width: 1006
+        height: 1257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_53
+      rect:
+        serializedVersion: 2
+        x: 8847
+        y: 1334
+        width: 1006
+        height: 1257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_54
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 59
+        width: 1006
+        height: 1257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_55
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 59
+        width: 1006
+        height: 1257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_56
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 59
+        width: 1006
+        height: 1257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_57
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 59
+        width: 1006
+        height: 1257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dilda_58
+      rect:
+        serializedVersion: 2
+        x: 7147
+        y: 59
+        width: 1006
+        height: 1257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

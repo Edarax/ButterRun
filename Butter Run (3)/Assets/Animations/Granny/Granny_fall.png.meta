@@ -1,0 +1,757 @@
+fileFormatVersion: 2
+guid: fb48c2872f088ec479fb24f2fc77d381
+timeCreated: 1525773497
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Sprite-pa\u0301d_0"
+    21300002: "Sprite-pa\u0301d_1"
+    21300004: "Sprite-pa\u0301d_2"
+    21300006: "Sprite-pa\u0301d_3"
+    21300008: "Sprite-pa\u0301d_4"
+    21300010: "Sprite-pa\u0301d_5"
+    21300012: "Sprite-pa\u0301d_6"
+    21300014: "Sprite-pa\u0301d_7"
+    21300016: "Sprite-pa\u0301d_8"
+    21300018: "Sprite-pa\u0301d_9"
+    21300020: "Sprite-pa\u0301d_10"
+    21300022: "Sprite-pa\u0301d_11"
+    21300024: "Sprite-pa\u0301d_12"
+    21300026: "Sprite-pa\u0301d_13"
+    21300028: "Sprite-pa\u0301d_14"
+    21300030: "Sprite-pa\u0301d_15"
+    21300032: "Sprite-pa\u0301d_16"
+    21300034: "Sprite-pa\u0301d_17"
+    21300036: "Sprite-pa\u0301d_18"
+    21300038: "Sprite-pa\u0301d_19"
+    21300040: "Sprite-pa\u0301d_20"
+    21300042: "Sprite-pa\u0301d_21"
+    21300044: "Sprite-pa\u0301d_22"
+    21300046: "Sprite-pa\u0301d_23"
+    21300048: "Sprite-pa\u0301d_24"
+    21300050: "Sprite-pa\u0301d_25"
+    21300052: "Sprite-pa\u0301d_26"
+    21300054: "Sprite-pa\u0301d_27"
+    21300056: "Sprite-pa\u0301d_28"
+    21300058: "Sprite-pa\u0301d_29"
+    21300060: "Sprite-pa\u0301d_30"
+    21300062: "Sprite-pa\u0301d_31"
+    21300064: "Sprite-pa\u0301d_32"
+    21300066: "Sprite-pa\u0301d_33"
+    21300068: "Sprite-pa\u0301d_34"
+    21300070: "Sprite-pa\u0301d_35"
+    21300072: "Sprite-pa\u0301d_36"
+    21300074: "Sprite-pa\u0301d_37"
+    21300076: "Sprite-pa\u0301d_38"
+    21300078: "Sprite-pa\u0301d_39"
+    21300080: "Sprite-pa\u0301d_40"
+    21300082: "Sprite-pa\u0301d_41"
+    21300084: "Sprite-pa\u0301d_42"
+    21300086: "Sprite-pa\u0301d_43"
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_0"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 4537
+        width: 717
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_1"
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 4535
+        width: 744
+        height: 445
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_2"
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 4533
+        width: 805
+        height: 436
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_3"
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 4535
+        width: 803
+        height: 414
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_4"
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 4534
+        width: 803
+        height: 396
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_5"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4024
+        width: 803
+        height: 403
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_6"
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 4024
+        width: 802
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_7"
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 4024
+        width: 805
+        height: 382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_8"
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4028
+        width: 799
+        height: 449
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_9"
+      rect:
+        serializedVersion: 2
+        x: 4205
+        y: 4028
+        width: 804
+        height: 449
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_10"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3506
+        width: 801
+        height: 408
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_11"
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3499
+        width: 806
+        height: 396
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_12"
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 3481
+        width: 807
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_13"
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3494
+        width: 876
+        height: 373
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_14"
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 3481
+        width: 936
+        height: 358
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_15"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2954
+        width: 916
+        height: 409
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_16"
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 2959
+        width: 944
+        height: 414
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_17"
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 2957
+        width: 943
+        height: 505
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_18"
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 2961
+        width: 980
+        height: 351
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_19"
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 2937
+        width: 980
+        height: 368
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_20"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2419
+        width: 1008
+        height: 353
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_21"
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 2418
+        width: 1008
+        height: 376
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_22"
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2425
+        width: 1005
+        height: 375
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_23"
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2415
+        width: 1046
+        height: 365
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_24"
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 2419
+        width: 1004
+        height: 342
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_25"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1871
+        width: 938
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_26"
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1901
+        width: 942
+        height: 353
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_27"
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1880
+        width: 936
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_28"
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1873
+        width: 956
+        height: 456
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_29"
+      rect:
+        serializedVersion: 2
+        x: 4124
+        y: 1866
+        width: 886
+        height: 522
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_30"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1271
+        width: 812
+        height: 519
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_31"
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1271
+        width: 840
+        height: 595
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_32"
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1265
+        width: 777
+        height: 593
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_33"
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 1263
+        width: 707
+        height: 595
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_34"
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 1263
+        width: 705
+        height: 595
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_35"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 646
+        width: 699
+        height: 594
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_36"
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 646
+        width: 683
+        height: 594
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_37"
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 639
+        width: 644
+        height: 595
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_38"
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 632
+        width: 640
+        height: 596
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_39"
+      rect:
+        serializedVersion: 2
+        x: 4375
+        y: 649
+        width: 615
+        height: 596
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_40"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 29
+        width: 662
+        height: 594
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_41"
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 29
+        width: 667
+        height: 594
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_42"
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 29
+        width: 672
+        height: 594
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sprite-pa\u0301d_43"
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 36
+        width: 715
+        height: 597
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,7 +3,55 @@ guid: 2b44b8749d524634eb8c8cda4c4500f5
 timeCreated: 1525609778
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: sousedkamluvi_0
+    21300002: sousedkamluvi_1
+    21300004: sousedkamluvi_2
+    21300006: sousedkamluvi_3
+    21300008: sousedkamluvi_4
+    21300010: sousedkamluvi_5
+    21300012: sousedkamluvi_6
+    21300014: sousedkamluvi_7
+    21300016: sousedkamluvi_8
+    21300018: sousedkamluvi_9
+    21300020: sousedkamluvi_10
+    21300022: sousedkamluvi_11
+    21300024: sousedkamluvi_12
+    21300026: sousedkamluvi_13
+    21300028: sousedkamluvi_14
+    21300030: sousedkamluvi_15
+    21300032: sousedkamluvi_16
+    21300034: sousedkamluvi_17
+    21300036: sousedkamluvi_18
+    21300038: sousedkamluvi_19
+    21300040: sousedkamluvi_20
+    21300042: sousedkamluvi_21
+    21300044: sousedkamluvi_22
+    21300046: sousedkamluvi_23
+    21300048: sousedkamluvi_24
+    21300050: sousedkamluvi_25
+    21300052: sousedkamluvi_26
+    21300054: sousedkamluvi_27
+    21300056: sousedkamluvi_28
+    21300058: sousedkamluvi_29
+    21300060: sousedkamluvi_30
+    21300062: sousedkamluvi_31
+    21300064: sousedkamluvi_32
+    21300066: sousedkamluvi_33
+    21300068: sousedkamluvi_34
+    21300070: sousedkamluvi_35
+    21300072: sousedkamluvi_36
+    21300074: sousedkamluvi_37
+    21300076: sousedkamluvi_38
+    21300078: sousedkamluvi_39
+    21300080: sousedkamluvi_40
+    21300082: sousedkamluvi_41
+    21300084: sousedkamluvi_42
+    21300086: sousedkamluvi_43
+    21300088: sousedkamluvi_44
+    21300090: sousedkamluvi_45
+    21300092: sousedkamluvi_46
+    21300094: sousedkamluvi_47
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +88,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -66,9 +114,701 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: sousedkamluvi_0
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 8942
+        width: 662
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_1
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 8942
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_2
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 8942
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_3
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 8942
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_4
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 8942
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_5
+      rect:
+        serializedVersion: 2
+        x: 9022
+        y: 8942
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 7667
+        width: 662
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_7
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 7667
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_8
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 7667
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_9
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 7667
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_10
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 7667
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_11
+      rect:
+        serializedVersion: 2
+        x: 9022
+        y: 7667
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 6392
+        width: 662
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_13
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 6392
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_14
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 6392
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_15
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 6392
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_16
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 6392
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_17
+      rect:
+        serializedVersion: 2
+        x: 9022
+        y: 6392
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 5117
+        width: 662
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_19
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 5117
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_20
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 5117
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_21
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 5117
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_22
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 5117
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_23
+      rect:
+        serializedVersion: 2
+        x: 9022
+        y: 5117
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_24
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3842
+        width: 662
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_25
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 3842
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_26
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 3842
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_27
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 3842
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_28
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 3842
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_29
+      rect:
+        serializedVersion: 2
+        x: 9022
+        y: 3842
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_30
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2567
+        width: 662
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_31
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 2567
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_32
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 2567
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_33
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 2567
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_34
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 2567
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_35
+      rect:
+        serializedVersion: 2
+        x: 9022
+        y: 2567
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_36
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1292
+        width: 662
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_37
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1292
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_38
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 1292
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_39
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 1292
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_40
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 1292
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_41
+      rect:
+        serializedVersion: 2
+        x: 9022
+        y: 1292
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_42
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 17
+        width: 662
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_43
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 17
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_44
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 17
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_45
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 17
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_46
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 17
+        width: 664
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sousedkamluvi_47
+      rect:
+        serializedVersion: 2
+        x: 9022
+        y: 17
+        width: 660
+        height: 1245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
