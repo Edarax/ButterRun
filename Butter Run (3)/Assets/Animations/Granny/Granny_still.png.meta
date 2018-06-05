@@ -3,7 +3,41 @@ guid: 1997191ef7e4cfb448ace91bc1e70e84
 timeCreated: 1525798338
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Granny_still_0
+    21300002: Granny_still_1
+    21300004: Granny_still_2
+    21300006: Granny_still_3
+    21300008: Granny_still_4
+    21300010: Granny_still_5
+    21300012: Granny_still_6
+    21300014: Granny_still_7
+    21300016: Granny_still_8
+    21300018: Granny_still_9
+    21300020: Granny_still_10
+    21300022: Granny_still_11
+    21300024: Granny_still_12
+    21300026: Granny_still_13
+    21300028: Granny_still_14
+    21300030: Granny_still_15
+    21300032: Granny_still_16
+    21300034: Granny_still_17
+    21300036: Granny_still_18
+    21300038: Granny_still_19
+    21300040: Granny_still_20
+    21300042: Granny_still_21
+    21300044: Granny_still_22
+    21300046: Granny_still_23
+    21300048: Granny_still_24
+    21300050: Granny_still_25
+    21300052: Granny_still_26
+    21300054: Granny_still_27
+    21300056: Granny_still_28
+    21300058: Granny_still_29
+    21300060: Granny_still_30
+    21300062: Granny_still_31
+    21300064: Granny_still_32
+    21300066: Granny_still_33
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +74,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -66,9 +100,505 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Granny_still_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6495
+        width: 1664
+        height: 953
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_1
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 6493
+        width: 1670
+        height: 957
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_2
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 6500
+        width: 1668
+        height: 948
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_3
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 6500
+        width: 1664
+        height: 950
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_4
+      rect:
+        serializedVersion: 2
+        x: 6814
+        y: 6500
+        width: 1665
+        height: 936
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_5
+      rect:
+        serializedVersion: 2
+        x: 8515
+        y: 6505
+        width: 1668
+        height: 931
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5231
+        width: 1664
+        height: 931
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_7
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 5231
+        width: 1663
+        height: 931
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_8
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 5231
+        width: 1668
+        height: 931
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_9
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 5231
+        width: 1664
+        height: 931
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_10
+      rect:
+        serializedVersion: 2
+        x: 6816
+        y: 5231
+        width: 1663
+        height: 931
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_11
+      rect:
+        serializedVersion: 2
+        x: 8507
+        y: 5217
+        width: 1675
+        height: 957
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3944
+        width: 1664
+        height: 956
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3942
+        width: 1663
+        height: 958
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_14
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 3946
+        width: 1676
+        height: 954
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_15
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 3942
+        width: 1664
+        height: 959
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_16
+      rect:
+        serializedVersion: 2
+        x: 6812
+        y: 3944
+        width: 1676
+        height: 955
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_17
+      rect:
+        serializedVersion: 2
+        x: 8514
+        y: 3946
+        width: 1669
+        height: 951
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2671
+        width: 1664
+        height: 953
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_19
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2671
+        width: 1672
+        height: 953
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_20
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 2669
+        width: 1675
+        height: 957
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_21
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 2668
+        width: 1664
+        height: 944
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_22
+      rect:
+        serializedVersion: 2
+        x: 6816
+        y: 2676
+        width: 1672
+        height: 948
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_23
+      rect:
+        serializedVersion: 2
+        x: 8514
+        y: 2669
+        width: 1668
+        height: 955
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1394
+        width: 1664
+        height: 944
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_25
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1402
+        width: 1674
+        height: 936
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_26
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1407
+        width: 1667
+        height: 931
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_27
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 1402
+        width: 1664
+        height: 936
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_28
+      rect:
+        serializedVersion: 2
+        x: 6816
+        y: 1393
+        width: 1663
+        height: 948
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_29
+      rect:
+        serializedVersion: 2
+        x: 8515
+        y: 1393
+        width: 1667
+        height: 957
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 120
+        width: 1664
+        height: 957
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_31
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 122
+        width: 1670
+        height: 953
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_32
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 120
+        width: 1676
+        height: 955
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_still_33
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 120
+        width: 1664
+        height: 955
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

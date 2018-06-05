@@ -109,10 +109,10 @@ TextureImporter:
       name: Granny_run_0
       rect:
         serializedVersion: 2
-        x: 43
-        y: 960
-        width: 429
-        height: 320
+        x: 22
+        y: 2654
+        width: 1659
+        height: 1245
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -123,10 +123,10 @@ TextureImporter:
       name: Granny_run_1
       rect:
         serializedVersion: 2
-        x: 539
-        y: 640
-        width: 459
-        height: 321
+        x: 1717
+        y: 2659
+        width: 1667
+        height: 1231
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,10 +137,10 @@ TextureImporter:
       name: Granny_run_2
       rect:
         serializedVersion: 2
-        x: 552
-        y: 960
-        width: 433
-        height: 320
+        x: 3419
+        y: 2669
+        width: 1664
+        height: 1210
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,10 +151,10 @@ TextureImporter:
       name: Granny_run_3
       rect:
         serializedVersion: 2
-        x: 1059
-        y: 960
-        width: 442
-        height: 320
+        x: 5117
+        y: 2679
+        width: 1664
+        height: 1191
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,10 +165,10 @@ TextureImporter:
       name: Granny_run_4
       rect:
         serializedVersion: 2
-        x: 1568
-        y: 960
-        width: 448
-        height: 320
+        x: 6816
+        y: 2689
+        width: 1668
+        height: 1171
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,10 +179,10 @@ TextureImporter:
       name: Granny_run_5
       rect:
         serializedVersion: 2
-        x: 28
-        y: 640
-        width: 456
-        height: 320
+        x: 8519
+        y: 2694
+        width: 1664
+        height: 1161
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,10 +193,10 @@ TextureImporter:
       name: Granny_run_6
       rect:
         serializedVersion: 2
-        x: 1046
-        y: 320
-        width: 470
-        height: 321
+        x: 17
+        y: 1378
+        width: 1664
+        height: 1241
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,10 +207,10 @@ TextureImporter:
       name: Granny_run_7
       rect:
         serializedVersion: 2
-        x: 1065
-        y: 640
-        width: 431
-        height: 320
+        x: 1731
+        y: 1378
+        width: 1643
+        height: 1241
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,10 +221,10 @@ TextureImporter:
       name: Granny_run_8
       rect:
         serializedVersion: 2
-        x: 1580
-        y: 640
-        width: 425
-        height: 320
+        x: 3449
+        y: 1379
+        width: 1608
+        height: 1245
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,10 +235,10 @@ TextureImporter:
       name: Granny_run_9
       rect:
         serializedVersion: 2
-        x: 48
-        y: 320
-        width: 416
-        height: 320
+        x: 5138
+        y: 1378
+        width: 1628
+        height: 1246
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,10 +249,10 @@ TextureImporter:
       name: Granny_run_10
       rect:
         serializedVersion: 2
-        x: 559
-        y: 321
-        width: 419
-        height: 319
+        x: 6816
+        y: 1431
+        width: 1668
+        height: 1138
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: Granny_run_11
       rect:
         serializedVersion: 2
-        x: 1548
-        y: 320
-        width: 489
-        height: 320
+        x: 8519
+        y: 1453
+        width: 1664
+        height: 1091
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,10 +277,10 @@ TextureImporter:
       name: Granny_run_12
       rect:
         serializedVersion: 2
-        x: 20
-        y: 0
-        width: 470
-        height: 320
+        x: 17
+        y: 157
+        width: 1668
+        height: 1136
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,10 +291,10 @@ TextureImporter:
       name: Granny_run_13
       rect:
         serializedVersion: 2
-        x: 547
-        y: 0
-        width: 443
-        height: 320
+        x: 1716
+        y: 122
+        width: 1668
+        height: 1206
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,10 +305,10 @@ TextureImporter:
       name: Granny_run_14
       rect:
         serializedVersion: 2
-        x: 1061
-        y: 0
-        width: 439
-        height: 320
+        x: 3419
+        y: 117
+        width: 1667
+        height: 1216
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,10 +319,10 @@ TextureImporter:
       name: Granny_run_15
       rect:
         serializedVersion: 2
-        x: 1567
-        y: 0
-        width: 451
-        height: 320
+        x: 5118
+        y: 132
+        width: 1668
+        height: 1186
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

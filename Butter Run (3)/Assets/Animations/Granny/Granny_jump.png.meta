@@ -45,6 +45,8 @@ TextureImporter:
     21300076: Granny_jump_40
     21300078: Granny_jump_41
     21300080: Granny_jump_42
+    21300082: Granny_jump_0
+    21300084: Granny_jump_1
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -131,13 +133,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Granny_jump_22
+      name: Granny_jump_0
       rect:
         serializedVersion: 2
-        x: 427
-        y: 1031
-        width: 430
-        height: 314
+        x: 582
+        y: 11983
+        width: 1263
+        height: 1102
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,13 +147,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Granny_jump_20
+      name: Granny_jump_1
       rect:
         serializedVersion: 2
-        x: 2569
-        y: 1387
-        width: 431
-        height: 313
+        x: 3122
+        y: 11990
+        width: 1290
+        height: 1043
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,10 +164,10 @@ TextureImporter:
       name: Granny_jump_2
       rect:
         serializedVersion: 2
-        x: 855
-        y: 2070
-        width: 430
-        height: 319
+        x: 5649
+        y: 12010
+        width: 1349
+        height: 957
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +178,10 @@ TextureImporter:
       name: Granny_jump_3
       rect:
         serializedVersion: 2
-        x: 1283
-        y: 2067
-        width: 430
-        height: 325
+        x: 8156
+        y: 12016
+        width: 1402
+        height: 884
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,10 +192,10 @@ TextureImporter:
       name: Granny_jump_4
       rect:
         serializedVersion: 2
-        x: 1711
-        y: 2064
-        width: 431
-        height: 331
+        x: 489
+        y: 10301
+        width: 1436
+        height: 841
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +206,10 @@ TextureImporter:
       name: Granny_jump_5
       rect:
         serializedVersion: 2
-        x: 2139
-        y: 2058
-        width: 431
-        height: 342
+        x: 3035
+        y: 10301
+        width: 1443
+        height: 824
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,10 +220,10 @@ TextureImporter:
       name: Granny_jump_6
       rect:
         serializedVersion: 2
-        x: 2567
-        y: 2058
-        width: 431
-        height: 342
+        x: 5583
+        y: 10301
+        width: 1448
+        height: 824
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,10 +234,10 @@ TextureImporter:
       name: Granny_jump_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1724
-        width: 430
-        height: 325
+        x: 8129
+        y: 10301
+        width: 1443
+        height: 824
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,10 +248,10 @@ TextureImporter:
       name: Granny_jump_8
       rect:
         serializedVersion: 2
-        x: 427
-        y: 1741
-        width: 430
-        height: 290
+        x: 535
+        y: 8612
+        width: 1443
+        height: 884
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +262,10 @@ TextureImporter:
       name: Granny_jump_9
       rect:
         serializedVersion: 2
-        x: 855
-        y: 1759
-        width: 429
-        height: 255
+        x: 3122
+        y: 8646
+        width: 1442
+        height: 917
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +276,10 @@ TextureImporter:
       name: Granny_jump_10
       rect:
         serializedVersion: 2
-        x: 1283
-        y: 1768
-        width: 429
-        height: 236
+        x: 5719
+        y: 8666
+        width: 1439
+        height: 983
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,10 +290,10 @@ TextureImporter:
       name: Granny_jump_11
       rect:
         serializedVersion: 2
-        x: 1712
-        y: 1772
-        width: 429
-        height: 229
+        x: 8308
+        y: 8686
+        width: 1436
+        height: 1043
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +304,10 @@ TextureImporter:
       name: Granny_jump_12
       rect:
         serializedVersion: 2
-        x: 2139
-        y: 1768
-        width: 430
-        height: 237
+        x: 708
+        y: 6991
+        width: 1429
+        height: 1116
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +318,10 @@ TextureImporter:
       name: Granny_jump_13
       rect:
         serializedVersion: 2
-        x: 2567
-        y: 1770
-        width: 429
-        height: 234
+        x: 3195
+        y: 7011
+        width: 1483
+        height: 1109
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +332,10 @@ TextureImporter:
       name: Granny_jump_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1419
-        width: 428
-        height: 252
+        x: 5748
+        y: 7024
+        width: 1501
+        height: 1070
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +346,10 @@ TextureImporter:
       name: Granny_jump_15
       rect:
         serializedVersion: 2
-        x: 427
-        y: 1403
-        width: 429
-        height: 283
+        x: 8243
+        y: 6961
+        width: 1515
+        height: 1086
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -358,10 +360,10 @@ TextureImporter:
       name: Granny_jump_16
       rect:
         serializedVersion: 2
-        x: 855
-        y: 1397
-        width: 430
-        height: 297
+        x: 599
+        y: 5229
+        width: 1492
+        height: 1036
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -372,10 +374,10 @@ TextureImporter:
       name: Granny_jump_17
       rect:
         serializedVersion: 2
-        x: 1284
-        y: 1388
-        width: 429
-        height: 312
+        x: 3142
+        y: 5209
+        width: 1462
+        height: 983
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,10 +388,10 @@ TextureImporter:
       name: Granny_jump_18
       rect:
         serializedVersion: 2
-        x: 1712
-        y: 1391
-        width: 429
-        height: 308
+        x: 5689
+        y: 5202
+        width: 1402
+        height: 950
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -400,10 +402,24 @@ TextureImporter:
       name: Granny_jump_19
       rect:
         serializedVersion: 2
-        x: 2139
-        y: 1394
-        width: 426
-        height: 303
+        x: 8242
+        y: 5177
+        width: 1383
+        height: 922
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3447
+        width: 1436
+        height: 943
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,10 +430,24 @@ TextureImporter:
       name: Granny_jump_21
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1057
-        width: 428
-        height: 293
+        x: 3039
+        y: 3507
+        width: 1485
+        height: 864
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Granny_jump_22
+      rect:
+        serializedVersion: 2
+        x: 5609
+        y: 3514
+        width: 1489
+        height: 883
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +458,10 @@ TextureImporter:
       name: Granny_jump_23
       rect:
         serializedVersion: 2
-        x: 855
-        y: 1063
-        width: 430
-        height: 280
+        x: 8249
+        y: 3507
+        width: 1356
+        height: 950
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -442,10 +472,10 @@ TextureImporter:
       name: Granny_jump_24
       rect:
         serializedVersion: 2
-        x: 1283
-        y: 1064
-        width: 430
-        height: 277
+        x: 563
+        y: 1800
+        width: 1329
+        height: 1033
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,10 +486,10 @@ TextureImporter:
       name: Granny_jump_25
       rect:
         serializedVersion: 2
-        x: 1712
-        y: 1068
-        width: 429
-        height: 270
+        x: 3175
+        y: 1792
+        width: 1276
+        height: 1050
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +500,10 @@ TextureImporter:
       name: Granny_jump_26
       rect:
         serializedVersion: 2
-        x: 2139
-        y: 1066
-        width: 430
-        height: 272
+        x: 5749
+        y: 1799
+        width: 1309
+        height: 1023
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +514,10 @@ TextureImporter:
       name: Granny_jump_27
       rect:
         serializedVersion: 2
-        x: 2567
-        y: 1076
-        width: 429
-        height: 252
+        x: 8309
+        y: 1798
+        width: 1342
+        height: 997
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,206 +528,10 @@ TextureImporter:
       name: Granny_jump_28
       rect:
         serializedVersion: 2
-        x: 0
-        y: 747
-        width: 428
-        height: 228
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_29
-      rect:
-        serializedVersion: 2
-        x: 427
-        y: 732
-        width: 429
-        height: 258
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_30
-      rect:
-        serializedVersion: 2
-        x: 855
-        y: 697
-        width: 429
-        height: 328
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_31
-      rect:
-        serializedVersion: 2
-        x: 1283
-        y: 698
-        width: 430
-        height: 325
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_32
-      rect:
-        serializedVersion: 2
-        x: 1711
-        y: 700
-        width: 430
-        height: 320
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_33
-      rect:
-        serializedVersion: 2
-        x: 2139
-        y: 703
-        width: 431
-        height: 316
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_34
-      rect:
-        serializedVersion: 2
-        x: 2567
-        y: 705
-        width: 431
-        height: 312
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_35
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 373
-        width: 430
-        height: 291
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_36
-      rect:
-        serializedVersion: 2
-        x: 427
-        y: 366
-        width: 431
-        height: 307
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_37
-      rect:
-        serializedVersion: 2
-        x: 855
-        y: 360
-        width: 430
-        height: 319
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_38
-      rect:
-        serializedVersion: 2
-        x: 1283
-        y: 363
-        width: 430
-        height: 312
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_39
-      rect:
-        serializedVersion: 2
-        x: 1719
-        y: 361
-        width: 429
-        height: 316
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_40
-      rect:
-        serializedVersion: 2
-        x: 2139
-        y: 358
-        width: 431
-        height: 324
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_41
-      rect:
-        serializedVersion: 2
-        x: 2567
-        y: 356
-        width: 431
-        height: 326
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Granny_jump_42
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 14
-        width: 430
-        height: 328
+        x: 709
+        y: 96
+        width: 1309
+        height: 997
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

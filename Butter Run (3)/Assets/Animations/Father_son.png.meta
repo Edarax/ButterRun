@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: c1dabceee49065c48b251952f01dfe10
+timeCreated: 1525609881
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: otec syn_0
+    21300002: otec syn_1
+    21300004: otec syn_2
+    21300006: otec syn_3
+    21300008: otec syn_4
+    21300010: otec syn_5
+    21300012: otec syn_6
+    21300014: otec syn_7
+    21300016: otec syn_8
+    21300018: otec syn_9
+    21300020: otec syn_10
+    21300022: otec syn_11
+    21300024: otec syn_12
+    21300026: otec syn_13
+    21300028: otec syn_14
+    21300030: otec syn_15
+    21300032: otec syn_16
+    21300034: otec syn_17
+    21300036: otec syn_18
+    21300038: otec syn_19
+    21300040: otec syn_20
+    21300042: otec syn_21
+    21300044: otec syn_22
+    21300046: otec syn_23
+    21300048: otec syn_24
+    21300050: otec syn_25
+    21300052: otec syn_26
+    21300054: otec syn_27
+    21300056: otec syn_28
+    21300058: otec syn_29
+    21300060: otec syn_30
+    21300062: otec syn_31
+    21300064: otec syn_32
+    21300066: otec syn_33
+    21300068: otec syn_34
+    21300070: otec syn_35
+    21300072: otec syn_36
+    21300074: otec syn_37
+    21300076: otec syn_38
+    21300078: otec syn_39
+    21300080: otec syn_40
+    21300082: otec syn_41
+    21300084: otec syn_42
+    21300086: otec syn_43
+    21300088: otec syn_44
+    21300090: otec syn_45
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: otec syn_0
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 8937
+        width: 858
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_1
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 8937
+        width: 852
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_2
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 8937
+        width: 860
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_3
+      rect:
+        serializedVersion: 2
+        x: 5521
+        y: 8937
+        width: 856
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_4
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 8937
+        width: 869
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_5
+      rect:
+        serializedVersion: 2
+        x: 8918
+        y: 8937
+        width: 861
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 7662
+        width: 866
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_7
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 7662
+        width: 877
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_8
+      rect:
+        serializedVersion: 2
+        x: 3804
+        y: 7662
+        width: 880
+        height: 1263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_9
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 7662
+        width: 885
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_10
+      rect:
+        serializedVersion: 2
+        x: 7209
+        y: 7662
+        width: 882
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_11
+      rect:
+        serializedVersion: 2
+        x: 8904
+        y: 7662
+        width: 897
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 6387
+        width: 893
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_13
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 6387
+        width: 892
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_14
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 6387
+        width: 900
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_15
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 6387
+        width: 906
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_16
+      rect:
+        serializedVersion: 2
+        x: 7192
+        y: 6387
+        width: 916
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_17
+      rect:
+        serializedVersion: 2
+        x: 8885
+        y: 6387
+        width: 924
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 5112
+        width: 916
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_19
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 5112
+        width: 922
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_20
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 5112
+        width: 937
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_21
+      rect:
+        serializedVersion: 2
+        x: 5486
+        y: 5112
+        width: 929
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_22
+      rect:
+        serializedVersion: 2
+        x: 7185
+        y: 5112
+        width: 930
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_23
+      rect:
+        serializedVersion: 2
+        x: 8884
+        y: 5112
+        width: 930
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_24
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 3837
+        width: 936
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_25
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 3837
+        width: 930
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_26
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 3837
+        width: 929
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_27
+      rect:
+        serializedVersion: 2
+        x: 5479
+        y: 3837
+        width: 938
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_28
+      rect:
+        serializedVersion: 2
+        x: 7189
+        y: 3837
+        width: 922
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_29
+      rect:
+        serializedVersion: 2
+        x: 8885
+        y: 3837
+        width: 924
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2562
+        width: 911
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_31
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 2562
+        width: 913
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_32
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 2562
+        width: 901
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_33
+      rect:
+        serializedVersion: 2
+        x: 5497
+        y: 2562
+        width: 900
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_34
+      rect:
+        serializedVersion: 2
+        x: 7204
+        y: 2562
+        width: 892
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_35
+      rect:
+        serializedVersion: 2
+        x: 8905
+        y: 2562
+        width: 889
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_36
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1287
+        width: 886
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_37
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1287
+        width: 876
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_38
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1287
+        width: 879
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_39
+      rect:
+        serializedVersion: 2
+        x: 5516
+        y: 1287
+        width: 866
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_40
+      rect:
+        serializedVersion: 2
+        x: 7212
+        y: 1287
+        width: 876
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_41
+      rect:
+        serializedVersion: 2
+        x: 8920
+        y: 1287
+        width: 859
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_42
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 12
+        width: 860
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_43
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 12
+        width: 852
+        height: 1263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_44
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 12
+        width: 851
+        height: 1263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: otec syn_45
+      rect:
+        serializedVersion: 2
+        x: 5519
+        y: 12
+        width: 858
+        height: 1251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

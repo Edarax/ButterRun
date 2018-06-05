@@ -1,0 +1,1057 @@
+fileFormatVersion: 2
+guid: a57bf8792cc810c47a2e3c31443a8672
+timeCreated: 1525609863
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: panjde_0
+    21300002: panjde_1
+    21300004: panjde_2
+    21300006: panjde_3
+    21300008: panjde_4
+    21300010: panjde_5
+    21300012: panjde_6
+    21300014: panjde_7
+    21300016: panjde_8
+    21300018: panjde_9
+    21300020: panjde_10
+    21300022: panjde_11
+    21300024: panjde_12
+    21300026: panjde_13
+    21300028: panjde_14
+    21300030: panjde_15
+    21300032: panjde_16
+    21300034: panjde_17
+    21300036: panjde_18
+    21300038: panjde_19
+    21300040: panjde_20
+    21300042: panjde_21
+    21300044: panjde_22
+    21300046: panjde_23
+    21300048: panjde_24
+    21300050: panjde_25
+    21300052: panjde_26
+    21300054: panjde_27
+    21300056: panjde_28
+    21300058: panjde_29
+    21300060: panjde_30
+    21300062: panjde_31
+    21300064: panjde_32
+    21300066: panjde_33
+    21300068: panjde_34
+    21300070: panjde_35
+    21300072: panjde_36
+    21300074: panjde_37
+    21300076: panjde_38
+    21300078: panjde_39
+    21300080: panjde_40
+    21300082: panjde_41
+    21300084: panjde_42
+    21300086: panjde_43
+    21300088: panjde_44
+    21300090: panjde_45
+    21300092: panjde_46
+    21300094: panjde_47
+    21300096: panjde_48
+    21300098: panjde_49
+    21300100: panjde_50
+    21300102: panjde_51
+    21300104: panjde_52
+    21300106: panjde_53
+    21300108: panjde_54
+    21300110: panjde_55
+    21300112: panjde_56
+    21300114: panjde_57
+    21300116: panjde_58
+    21300118: panjde_59
+    21300120: panjde_60
+    21300122: panjde_61
+    21300124: panjde_62
+    21300126: panjde_63
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panjde_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 12902
+        width: 947
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_1
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 12902
+        width: 954
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_2
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 12902
+        width: 982
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_3
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 12902
+        width: 1003
+        height: 1258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_4
+      rect:
+        serializedVersion: 2
+        x: 7138
+        y: 12902
+        width: 1024
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_5
+      rect:
+        serializedVersion: 2
+        x: 8826
+        y: 12902
+        width: 1052
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 11628
+        width: 1065
+        height: 1252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_7
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 11628
+        width: 1080
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_8
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 11628
+        width: 1072
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_9
+      rect:
+        serializedVersion: 2
+        x: 5429
+        y: 11628
+        width: 1038
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_10
+      rect:
+        serializedVersion: 2
+        x: 7166
+        y: 11628
+        width: 968
+        height: 1252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_11
+      rect:
+        serializedVersion: 2
+        x: 8909
+        y: 11628
+        width: 879
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 10348
+        width: 780
+        height: 1266
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_13
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 10348
+        width: 667
+        height: 1266
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_14
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 10348
+        width: 587
+        height: 1266
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_15
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 10350
+        width: 518
+        height: 1264
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_16
+      rect:
+        serializedVersion: 2
+        x: 7408
+        y: 10348
+        width: 484
+        height: 1266
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_17
+      rect:
+        serializedVersion: 2
+        x: 9117
+        y: 10348
+        width: 464
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_18
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 9068
+        width: 429
+        height: 1266
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_19
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 9063
+        width: 421
+        height: 1277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_20
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 9075
+        width: 414
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_21
+      rect:
+        serializedVersion: 2
+        x: 5740
+        y: 9082
+        width: 415
+        height: 1252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_22
+      rect:
+        serializedVersion: 2
+        x: 7422
+        y: 9082
+        width: 456
+        height: 1252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_23
+      rect:
+        serializedVersion: 2
+        x: 9103
+        y: 9082
+        width: 491
+        height: 1252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_24
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 7802
+        width: 518
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_25
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 7802
+        width: 540
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_26
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 7802
+        width: 588
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_27
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 7788
+        width: 636
+        height: 1273
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_28
+      rect:
+        serializedVersion: 2
+        x: 7311
+        y: 7802
+        width: 678
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_29
+      rect:
+        serializedVersion: 2
+        x: 8979
+        y: 7788
+        width: 740
+        height: 1273
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_30
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 6522
+        width: 789
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_31
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 6522
+        width: 830
+        height: 1266
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_32
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 6529
+        width: 837
+        height: 1252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_33
+      rect:
+        serializedVersion: 2
+        x: 5533
+        y: 6529
+        width: 837
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_34
+      rect:
+        serializedVersion: 2
+        x: 7228
+        y: 6529
+        width: 844
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_35
+      rect:
+        serializedVersion: 2
+        x: 8917
+        y: 6529
+        width: 864
+        height: 1252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_36
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 5255
+        width: 886
+        height: 1253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_37
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 5249
+        width: 912
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_38
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 5255
+        width: 923
+        height: 1253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_39
+      rect:
+        serializedVersion: 2
+        x: 5471
+        y: 5255
+        width: 954
+        height: 1253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_40
+      rect:
+        serializedVersion: 2
+        x: 7166
+        y: 5255
+        width: 968
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_41
+      rect:
+        serializedVersion: 2
+        x: 8882
+        y: 5255
+        width: 934
+        height: 1253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_42
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3968
+        width: 878
+        height: 1267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_43
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 3975
+        width: 816
+        height: 1262
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_44
+      rect:
+        serializedVersion: 2
+        x: 3879
+        y: 3975
+        width: 740
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_45
+      rect:
+        serializedVersion: 2
+        x: 5609
+        y: 3975
+        width: 678
+        height: 1260
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_46
+      rect:
+        serializedVersion: 2
+        x: 7339
+        y: 3982
+        width: 622
+        height: 1252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_47
+      rect:
+        serializedVersion: 2
+        x: 9062
+        y: 3968
+        width: 574
+        height: 1267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_48
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2709
+        width: 539
+        height: 1252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_49
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 2709
+        width: 512
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_50
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 2704
+        width: 484
+        height: 1264
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_51
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 2709
+        width: 462
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_52
+      rect:
+        serializedVersion: 2
+        x: 7415
+        y: 2709
+        width: 470
+        height: 1252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_53
+      rect:
+        serializedVersion: 2
+        x: 9097
+        y: 2709
+        width: 504
+        height: 1252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_54
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1436
+        width: 540
+        height: 1252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_55
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1436
+        width: 582
+        height: 1255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_56
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 1436
+        width: 602
+        height: 1258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_57
+      rect:
+        serializedVersion: 2
+        x: 5643
+        y: 1436
+        width: 609
+        height: 1258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_58
+      rect:
+        serializedVersion: 2
+        x: 7318
+        y: 1436
+        width: 664
+        height: 1258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_59
+      rect:
+        serializedVersion: 2
+        x: 8986
+        y: 1436
+        width: 726
+        height: 1258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_60
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 156
+        width: 789
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_61
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 156
+        width: 844
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_62
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 156
+        width: 888
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panjde_63
+      rect:
+        serializedVersion: 2
+        x: 5491
+        y: 156
+        width: 920
+        height: 1259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
